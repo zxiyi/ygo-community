@@ -1,6 +1,7 @@
 {
   "name": "ygo-community",
   "version": "0.1.0",
+  "author": "zyixi <1424244330@qq.com>",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
